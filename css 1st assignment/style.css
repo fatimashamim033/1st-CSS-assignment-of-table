@@ -1,0 +1,55 @@
+ .navbar {
+    width: 100%;
+    background-color:rgb(159, 158, 158);
+    overflow: hidden;
+  }
+  
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: rgb(46, 3, 3);
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+.active {
+    background-color: #edd0e7;
+  }
+button{
+  background-color: red;
+}
+button1{
+  background-color: green;
+}
+#confirm{
+  background-color: green;
+}
+   
+#enter1{
+      background-color: #84d5f3;
+      border: 2px solid black;
+      width: 150px;
+      height: 200px;
+      padding: 40px;
+      color: black;
+      text-align: center;
+      float: left;
+    }
+#enter2{
+  
+  float: center;
+  margin-right: 0px;
+}
+.bottom{
+  background-color: rgb(155, 153, 153);
+}
+
+  
+tr{
+      background-color: rgb(221, 219, 219);
+    }
+#green{
+      background-color: chartreuse;
+    }
